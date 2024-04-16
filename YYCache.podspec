@@ -16,5 +16,5 @@ Pod::Spec.new do |s|
   
   s.libraries = 'sqlite3'
   s.frameworks = 'UIKit', 'CoreFoundation', 'QuartzCore' 
-
+  s.resource_bundles = {'YYCache' => ['YYCache/PrivacyInfo.xcprivacy']}
 end

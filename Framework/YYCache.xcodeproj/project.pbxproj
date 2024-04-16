@@ -22,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8F240E842BCE829A00D9F0D3 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		D93C45AC1F05445A009F80F9 /* YYCache.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = YYCache.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D93C45B01F05445A009F80F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D9F591E31F05472F00769742 /* YYCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYCache.h; sourceTree = "<group>"; };
@@ -81,6 +82,7 @@
 				D9F591E61F05472F00769742 /* YYDiskCache.m */,
 				D9F591E71F05472F00769742 /* YYKVStorage.h */,
 				D9F591E81F05472F00769742 /* YYKVStorage.m */,
+				8F240E842BCE829A00D9F0D3 /* PrivacyInfo.xcprivacy */,
 			);
 			name = YYCache;
 			path = ../YYCache;
